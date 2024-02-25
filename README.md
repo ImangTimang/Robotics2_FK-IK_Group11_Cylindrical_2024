@@ -2,3 +2,5 @@
 ## Laboratory 1
 
 This repository contains the Forward and Inverse Kinematics of a Cylindrical Manipulator
+
+GROUP MEMBERS/COLLABORATORS
