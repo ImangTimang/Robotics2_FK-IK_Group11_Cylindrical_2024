@@ -3,4 +3,13 @@
 
 This repository contains the Forward and Inverse Kinematics of a Cylindrical Manipulator
 
-GROUP MEMBERS/COLLABORATORS
+GROUP 11 MEMBERS:
+
+
+DATINGUINOO, JOHN EMANUEL (PP)
+
+FABUNAN. KIMBERLY C. (SUPERVISOR)
+
+MANALO, ANGEL (TEAM LEADER)
+
+RALPH NEIL MARANAN (PQ)
